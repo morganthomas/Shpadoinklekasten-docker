@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker run --network=host s11kasten:latest
+docker run -d --network=host s11kasten:latest
